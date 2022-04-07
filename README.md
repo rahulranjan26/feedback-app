@@ -1,6 +1,5 @@
 # For a preview, click here 
- Your site is ready to be published at https://rahulranjan26.github.io/feedback-app/
-
+https://boisterous-elf-db1da3.netlify.app
 
 
 # Getting Started with Create React App
